@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ConvertVariableTypes
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ConvertVariableTypes.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ConvertVariableTypes.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ConvertVariableTypes.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ref/ConvertVariableTypes.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/bin/Debug/net6.0/ConvertVariableTypes.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ref/ConvertVariableTypes.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/ConvertVariableTypes/obj/Debug/net6.0/ConvertVariableTypes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/Operators
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/Operators.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/Operators.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/ref/Operators.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/bin/Debug/net6.0/Operators.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/ref/Operators.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache
