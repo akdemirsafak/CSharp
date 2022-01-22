@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/TryCatchAndLogicalErrors
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/TryCatchAndLogicalErrors.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/TryCatchAndLogicalErrors.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/TryCatchAndLogicalErrors.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/ref/TryCatchAndLogicalErrors.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/bin/Debug/net6.0/TryCatchAndLogicalErrors.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/ref/TryCatchAndLogicalErrors.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/TryCatchAndLogicalErrors/obj/Debug/net6.0/TryCatchAndLogicalErrors.genruntimeconfig.cache

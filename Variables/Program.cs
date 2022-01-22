@@ -7,23 +7,23 @@ namespace Variables
         static void Main(string[] args)
         {
             
-            String myVariable=" "; //değer kadar yer kaplar
-            byte b=5; //byte type = need 1 byte storage
-            short s=5; //2 byte -32k ... 32k  
-            ushort us=5; //2byte 0 .. 65k.365
+            // String myVariable=" "; //değer kadar yer kaplar
+            // byte b=5; //byte type = need 1 byte storage
+            // short s=5; //2 byte -32k ... 32k  
+            // ushort us=5; //2byte 0 .. 65k.365
 
-            Int16 i16=2; //2 byte
-            int myInt=4; //4 byte 
-            Int32 myInt32=6; //4 byte
-            Int64 myInt64=8; //8 byte
+            // Int16 i16=2; //2 byte
+            // int myInt=4; //4 byte 
+            // Int32 myInt32=6; //4 byte
+            // Int64 myInt64=8; //8 byte
 
-            float f=5; //4 byte
-            double d=5;//8 byte
-            decimal de=5; //16 byte
+            // float f=5; //4 byte
+            // double d=5;//8 byte
+            // decimal de=5; //16 byte
 
-            Char ch='s'; //2 byte
+            // Char ch='s'; //2 byte
 
-            bool bl=true; //default false
+            // bool bl=true; //default false
             DateTime dt=DateTime.Now;
             Console.WriteLine(dt);
 
@@ -56,7 +56,7 @@ namespace Variables
 
             //String Examples
             string str1=string.Empty;
-            str1=null;
+            //str1=null;
 
             string name="Name";
             string lastname="LastName";
@@ -67,7 +67,7 @@ namespace Variables
             int integer1=5,integer2=3,resultInt=integer1+integer2;
             
             //Bool Example
-            bool myResult=3<5;
+            //bool myResult=3<5;
 
             //Change Var Type
 
