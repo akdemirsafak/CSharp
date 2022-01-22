@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/SwitchCase
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/SwitchCase.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/SwitchCase.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/SwitchCase.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/ref/SwitchCase.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/bin/Debug/net6.0/SwitchCase.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/ref/SwitchCase.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/SwitchCase/obj/Debug/net6.0/SwitchCase.genruntimeconfig.cache
