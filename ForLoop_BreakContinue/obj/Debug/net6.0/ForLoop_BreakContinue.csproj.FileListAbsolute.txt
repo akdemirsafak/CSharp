@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ForLoop_BreakContinue
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ForLoop_BreakContinue.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ForLoop_BreakContinue.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ForLoop_BreakContinue.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ref/ForLoop_BreakContinue.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/bin/Debug/net6.0/ForLoop_BreakContinue.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ref/ForLoop_BreakContinue.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/ForLoop_BreakContinue/obj/Debug/net6.0/ForLoop_BreakContinue.genruntimeconfig.cache
