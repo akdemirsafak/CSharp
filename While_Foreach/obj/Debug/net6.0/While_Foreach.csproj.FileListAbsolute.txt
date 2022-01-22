@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/While_Foreach
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/While_Foreach.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/While_Foreach.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/While_Foreach.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/ref/While_Foreach.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/bin/Debug/net6.0/While_Foreach.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/ref/While_Foreach.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/While_Foreach/obj/Debug/net6.0/While_Foreach.genruntimeconfig.cache
