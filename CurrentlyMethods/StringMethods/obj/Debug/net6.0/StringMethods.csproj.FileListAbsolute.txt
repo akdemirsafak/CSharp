@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/StringMethods
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/StringMethods.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/StringMethods.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/StringMethods.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/ref/StringMethods.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/bin/Debug/net6.0/StringMethods.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/ref/StringMethods.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/CurrentlyMethods/StringMethods/obj/Debug/net6.0/StringMethods.genruntimeconfig.cache
