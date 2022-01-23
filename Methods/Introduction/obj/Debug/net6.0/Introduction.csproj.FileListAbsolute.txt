@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/Introduction
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/Introduction.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/Introduction.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/Introduction.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/ref/Introduction.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/bin/Debug/net6.0/Introduction.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/ref/Introduction.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Introduction/obj/Debug/net6.0/Introduction.genruntimeconfig.cache

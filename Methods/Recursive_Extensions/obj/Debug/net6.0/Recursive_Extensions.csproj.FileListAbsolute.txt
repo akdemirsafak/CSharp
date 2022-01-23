@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/Recursive_Extensions
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/Recursive_Extensions.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/Recursive_Extensions.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/Recursive_Extensions.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/ref/Recursive_Extensions.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/bin/Debug/net6.0/Recursive_Extensions.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/ref/Recursive_Extensions.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/Recursive_Extensions/obj/Debug/net6.0/Recursive_Extensions.genruntimeconfig.cache

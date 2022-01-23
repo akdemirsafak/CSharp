@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/MethodOverloadings
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/MethodOverloadings.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/MethodOverloadings.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/MethodOverloadings.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/ref/MethodOverloadings.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/bin/Debug/net6.0/MethodOverloadings.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/ref/MethodOverloadings.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Methods/MethodOverloadings/obj/Debug/net6.0/MethodOverloadings.genruntimeconfig.cache
