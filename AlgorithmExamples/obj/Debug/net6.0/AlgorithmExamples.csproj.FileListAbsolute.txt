@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/AlgorithmExamples
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/AlgorithmExamples.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/AlgorithmExamples.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/AlgorithmExamples.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/ref/AlgorithmExamples.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/bin/Debug/net6.0/AlgorithmExamples.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/ref/AlgorithmExamples.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/AlgorithmExamples/obj/Debug/net6.0/AlgorithmExamples.genruntimeconfig.cache
