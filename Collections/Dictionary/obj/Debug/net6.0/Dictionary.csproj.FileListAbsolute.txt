@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/Dictionary
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/Dictionary.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/Dictionary.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/Dictionary.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/ref/Dictionary.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/bin/Debug/net6.0/Dictionary.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/ref/Dictionary.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Dictionary/obj/Debug/net6.0/Dictionary.genruntimeconfig.cache

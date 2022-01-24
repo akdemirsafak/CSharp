@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ArrayList
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ArrayList.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ArrayList.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ArrayList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ref/ArrayList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/bin/Debug/net6.0/ArrayList.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ref/ArrayList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/ArrayList/obj/Debug/net6.0/ArrayList.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/Example
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/Example.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/Example.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/Example.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/ref/Example.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/bin/Debug/net6.0/Example.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/ref/Example.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/Example/obj/Debug/net6.0/Example.genruntimeconfig.cache

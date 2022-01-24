@@ -31,7 +31,7 @@ System.Console.WriteLine(word.Insert(word.Length,"x")); //(index,karakter) karak
 
 System.Console.WriteLine("\nPadLeft and PadRight");
 System.Console.WriteLine(word.PadLeft(30)); //eğer string ifadedeki karakter sayısı 30 dan küçükse 30 a tamamlayacak kadar sola boşluk eklenir.(ya da istediğimiz karakter)
-System.Console.WriteLine(word.PadRight(30,"*"));//yukardakinin sağa ekleyeni
+System.Console.WriteLine(word.PadRight(30,'*'));//yukardakinin sağa ekleyeni
 
 System.Console.WriteLine("\nRemove");
 System.Console.WriteLine(word.Remove(3,3)); //Verilen indeksten sonraki 5 karakteri siler.
@@ -41,7 +41,7 @@ System.Console.WriteLine("\nReplace");
 System.Console.WriteLine(word.Replace("Hello","Merhaba")); //eski deger,yeni deger
 
 System.Console.WriteLine("\nSplit");
-System.Console.WriteLine(word.Split(' '[1])); //Boşluklara göre parçalara ayır 1. indexteki parçayı getir.
+System.Console.WriteLine(word.Split(' ')[1]); //Boşluklara göre parçalara ayır 1. indexteki parçayı getir.
 
 
 System.Console.WriteLine("\nSubString");

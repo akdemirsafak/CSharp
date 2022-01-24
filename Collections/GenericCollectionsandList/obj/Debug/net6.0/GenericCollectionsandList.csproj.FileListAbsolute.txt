@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/GenericCollectionsandList
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/GenericCollectionsandList.deps.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/GenericCollectionsandList.runtimeconfig.json
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/GenericCollectionsandList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/ref/GenericCollectionsandList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/bin/Debug/net6.0/GenericCollectionsandList.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/ref/GenericCollectionsandList.dll
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.pdb
+/Users/akdemirsafak/Desktop/PatikaCSharp/Collections/GenericCollectionsandList/obj/Debug/net6.0/GenericCollectionsandList.genruntimeconfig.cache
