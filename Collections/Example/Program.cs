@@ -13,7 +13,7 @@ class Solution {
         string phoneNum;
         for(int i=0;i<n;i++)
         {
-             input=Console.ReadLine();
+             input=Console.ReadLine()!;
              name=input.Split(' ')[0].ToLower();
              phoneNum=input.Split(' ')[1];
              phoneBook.Add(name,phoneNum);
@@ -22,7 +22,7 @@ class Solution {
         
         for (int i = 0; i < n; i++)
         {
-            name=Console.ReadLine();
+            name=Console.ReadLine()!;
             try
             {
                 Console.WriteLine("{0}={1}",name, phoneBook[name]);

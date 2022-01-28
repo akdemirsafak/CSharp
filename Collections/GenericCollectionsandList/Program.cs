@@ -53,8 +53,8 @@ stringList.Clear();
 
 public class Users
 {
-    public string Name { get; set; }
-    public string LastName { get; set; }
+    public string Name { get; set; }=string.Empty;
+    public string LastName { get; set; }=string.Empty;
     public int Age { get; set; }
     
     
