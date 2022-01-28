@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/Enums
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/Enums.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/Enums.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/Enums.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/ref/Enums.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/bin/Debug/net6.0/Enums.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/ref/Enums.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Enums/obj/Debug/net6.0/Enums.genruntimeconfig.cache

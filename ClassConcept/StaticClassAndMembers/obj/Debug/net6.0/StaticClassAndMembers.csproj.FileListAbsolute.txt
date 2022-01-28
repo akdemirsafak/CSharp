@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/StaticClassAndMembers
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/StaticClassAndMembers.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/StaticClassAndMembers.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/StaticClassAndMembers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/ref/StaticClassAndMembers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/bin/Debug/net6.0/StaticClassAndMembers.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/ref/StaticClassAndMembers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StaticClassAndMembers/obj/Debug/net6.0/StaticClassAndMembers.genruntimeconfig.cache

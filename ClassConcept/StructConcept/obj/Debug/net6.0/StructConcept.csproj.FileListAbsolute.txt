@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/StructConcept
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/StructConcept.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/StructConcept.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/StructConcept.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/ref/StructConcept.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/bin/Debug/net6.0/StructConcept.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/ref/StructConcept.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/StructConcept/obj/Debug/net6.0/StructConcept.genruntimeconfig.cache

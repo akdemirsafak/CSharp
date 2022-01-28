@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/Encapsulation_Property
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/Encapsulation_Property.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/Encapsulation_Property.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/Encapsulation_Property.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/ref/Encapsulation_Property.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/bin/Debug/net6.0/Encapsulation_Property.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/ref/Encapsulation_Property.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/Encapsulation_Property/obj/Debug/net6.0/Encapsulation_Property.genruntimeconfig.cache

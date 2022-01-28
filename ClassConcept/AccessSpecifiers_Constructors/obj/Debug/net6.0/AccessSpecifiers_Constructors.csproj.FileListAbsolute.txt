@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/AccessSpecifiers_Constructors
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/AccessSpecifiers_Constructors.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/AccessSpecifiers_Constructors.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/AccessSpecifiers_Constructors.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/ref/AccessSpecifiers_Constructors.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/bin/Debug/net6.0/AccessSpecifiers_Constructors.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/ref/AccessSpecifiers_Constructors.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/ClassConcept/AccessSpecifiers_Constructors/obj/Debug/net6.0/AccessSpecifiers_Constructors.genruntimeconfig.cache
