@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/Collections-Question-1
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/Collections-Question-1.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/Collections-Question-1.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/Collections-Question-1.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/ref/Collections-Question-1.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/bin/Debug/net6.0/Collections-Question-1.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/ref/Collections-Question-1.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/AlgorithmExamples_Part2/Collections-Question-1/obj/Debug/net6.0/Collections-Question-1.genruntimeconfig.cache
