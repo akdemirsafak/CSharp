@@ -1,0 +1,15 @@
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/PhoneNumbers
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/PhoneNumbers.deps.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/PhoneNumbers.runtimeconfig.json
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/PhoneNumbers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/ref/PhoneNumbers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/bin/Debug/net6.0/PhoneNumbers.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.csproj.AssemblyReference.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.AssemblyInfoInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.AssemblyInfo.cs
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.csproj.CoreCompileInputs.cache
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/ref/PhoneNumbers.dll
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.pdb
+/Users/akdemirsafak/Desktop/Patika/PatikaCSharp/PhoneNumbers/obj/Debug/net6.0/PhoneNumbers.genruntimeconfig.cache
